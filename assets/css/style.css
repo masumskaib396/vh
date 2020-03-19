@@ -58,15 +58,14 @@ flex: 0 0 50%;
 
 }
 .vh-content {
+position: fixed;
 background: #222;
 height: 100vh;
 color: #fff;
 justify-content: center;
 align-items: center;
 vertical-align: middle;
-display: flex;
 padding: 80px;
-position: fixed;
 width: 100%;
 }
 .fp-tableCell {
@@ -74,4 +73,8 @@ width: 100%;
     font-size: 30px;
     color: #fff;
     text-transform: uppercase;
+}
+.vh-content h2 {
+    width: 180px;
+    font-size: 50px;
 }
