@@ -36,7 +36,7 @@ $(document).ready(function() {
 		//options here
 		autoScrolling:true,
 		scrollHorizontally: true,
-		sectionsColor : ['#2ecc71', '#e74c3c', '#3498db', '#f1c40f'],
+		// sectionsColor : ['#2ecc71', '#e74c3c', '#3498db', '#f1c40f', '#ecf0f1', '#2c3e50', '#8e44ad', '#d35400'],
 		scrollBar: true,
 		css3: true,
 		navigationPosition: 'right',
