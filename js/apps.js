@@ -20,7 +20,7 @@ particlesJS("particles-js-one", {
 				"nb_sides": 5
 			},
 			"image": {
-				"src": "assets/img/Reward.png",
+				"src": "img/Reward.png",
 				"width": 80,
 				"height": 80
 			}
@@ -131,7 +131,7 @@ particlesJS("particles-js-two", {
 				"nb_sides": 5
 			},
 			"image": {
-				"src": "assets/img/Phone.png",
+				"src": "img/Phone.png",
 				"width": 80,
 				"height": 80
 			}
@@ -242,7 +242,7 @@ particlesJS("particles-js-three", {
 				"nb_sides": 5
 			},
 			"image": {
-				"src": "assets/img/one.png",
+				"src": "img/one.png",
 				"width": 80,
 				"height": 80
 			}
@@ -353,7 +353,7 @@ particlesJS("particles-js-four", {
 				"nb_sides": 5
 			},
 			"image": {
-				"src": "assets/img/Locks.png",
+				"src": "img/Locks.png",
 				"width": 80,
 				"height": 80
 			}
@@ -464,7 +464,7 @@ particlesJS("particles-js-five", {
 				"nb_sides": 5
 			},
 			"image": {
-				"src": "assets/img/two.png",
+				"src": "img/two.png",
 				"width": 80,
 				"height": 80
 			}
@@ -575,7 +575,7 @@ particlesJS("particles-js-six", {
 				"nb_sides": 5
 			},
 			"image": {
-				"src": "assets/img/Verification.png",
+				"src": "img/Verification.png",
 				"width": 80,
 				"height": 80
 			}
@@ -663,6 +663,7 @@ particlesJS("particles-js-six", {
 	},
 	"retina_detect": true
 });
+
 particlesJS("particles-js-seven", {
 	"particles": {
 		"number": {
@@ -685,7 +686,7 @@ particlesJS("particles-js-seven", {
 				"nb_sides": 5
 			},
 			"image": {
-				"src": "assets/img/Dollars.png",
+				"src": "img/Dollars.png",
 				"width": 80,
 				"height": 80
 			}
@@ -796,7 +797,7 @@ particlesJS("particles-js-eight", {
 				"nb_sides": 5
 			},
 			"image": {
-				"src": "assets/img/Smile.png",
+				"src": "img/Smile.png",
 				"width": 80,
 				"height": 80
 			}
