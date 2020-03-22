@@ -21,8 +21,8 @@ particlesJS("particles-js-one", {
 			},
 			"image": {
 				"src": "img/Reward.png",
-				"width": 80,
-				"height": 80
+				"width": 60,
+				"height": 60
 			}
 		},
 		"opacity": {
@@ -36,7 +36,7 @@ particlesJS("particles-js-one", {
 			}
 		},
 		"size": {
-			"value": 40,
+			"value": 30,
 			"random": true,
 			"anim": {
 				"enable": false,
@@ -133,7 +133,7 @@ particlesJS("particles-js-two", {
 			"image": {
 				"src": "img/Phone.png",
 				"width": 80,
-				"height": 80
+				"height": 130
 			}
 		},
 		"opacity": {
@@ -147,7 +147,7 @@ particlesJS("particles-js-two", {
 			}
 		},
 		"size": {
-			"value": 40,
+			"value": 18,
 			"random": true,
 			"anim": {
 				"enable": false,
@@ -243,8 +243,8 @@ particlesJS("particles-js-three", {
 			},
 			"image": {
 				"src": "img/one.png",
-				"width": 80,
-				"height": 80
+				"width": 60,
+				"height": 60
 			}
 		},
 		"opacity": {
@@ -258,7 +258,7 @@ particlesJS("particles-js-three", {
 			}
 		},
 		"size": {
-			"value": 40,
+			"value": 30,
 			"random": true,
 			"anim": {
 				"enable": false,
@@ -354,8 +354,8 @@ particlesJS("particles-js-four", {
 			},
 			"image": {
 				"src": "img/Locks.png",
-				"width": 80,
-				"height": 80
+				"width": 50,
+				"height": 50
 			}
 		},
 		"opacity": {
@@ -369,7 +369,7 @@ particlesJS("particles-js-four", {
 			}
 		},
 		"size": {
-			"value": 40,
+			"value": 30,
 			"random": true,
 			"anim": {
 				"enable": false,
@@ -465,8 +465,8 @@ particlesJS("particles-js-five", {
 			},
 			"image": {
 				"src": "img/two.png",
-				"width": 80,
-				"height": 80
+				"width": 60,
+				"height": 60
 			}
 		},
 		"opacity": {
@@ -480,7 +480,7 @@ particlesJS("particles-js-five", {
 			}
 		},
 		"size": {
-			"value": 40,
+			"value": 30,
 			"random": true,
 			"anim": {
 				"enable": false,
@@ -576,8 +576,8 @@ particlesJS("particles-js-six", {
 			},
 			"image": {
 				"src": "img/Verification.png",
-				"width": 80,
-				"height": 80
+				"width": 60,
+				"height": 65
 			}
 		},
 		"opacity": {
@@ -591,7 +591,7 @@ particlesJS("particles-js-six", {
 			}
 		},
 		"size": {
-			"value": 40,
+			"value": 30,
 			"random": true,
 			"anim": {
 				"enable": false,
@@ -687,8 +687,8 @@ particlesJS("particles-js-seven", {
 			},
 			"image": {
 				"src": "img/Dollars.png",
-				"width": 80,
-				"height": 80
+				"width": 40,
+				"height": 60
 			}
 		},
 		"opacity": {
@@ -702,7 +702,7 @@ particlesJS("particles-js-seven", {
 			}
 		},
 		"size": {
-			"value": 40,
+			"value": 20,
 			"random": true,
 			"anim": {
 				"enable": false,
@@ -798,8 +798,8 @@ particlesJS("particles-js-eight", {
 			},
 			"image": {
 				"src": "img/Smile.png",
-				"width": 80,
-				"height": 80
+				"width": 50,
+				"height": 50
 			}
 		},
 		"opacity": {
@@ -813,7 +813,7 @@ particlesJS("particles-js-eight", {
 			}
 		},
 		"size": {
-			"value": 40,
+			"value": 30,
 			"random": true,
 			"anim": {
 				"enable": false,

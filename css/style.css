@@ -266,11 +266,12 @@ time, mark, audio, video {
 .vh-content h2 {
     font-size: 40px;
     color: #666666;
-    font-weight: 400;
+    font-weight: 300;
     position: relative;
     z-index: 1;
     display: inline-block;
     line-height: 0;
+    font-family: VAGRoundedStdLight;
 }
 
 .vh-content h2:after {
@@ -291,18 +292,6 @@ time, mark, audio, video {
     padding-right: 100px;
     text-align:center
 }
-.map-img {
-    height: 418px;
-    background-size: cover;
-    background-position: center center;
-    position: relative;
-    width: 90%;
-}
-.map-img img {
-    position: absolute;
-    top: 25px;
-    left: 64px;
-}
 
 .promo-box-wraper {
   display: flex;
@@ -316,16 +305,13 @@ time, mark, audio, video {
     border-radius: 18.64px;
 }
 
-.single-promo-box-img{
-    width: 25px;
-    height: 25px;
-}
 
-.single-promo-box-img img{
+.single-promo-box-img{
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
+
 .single-promo-box-content {
     padding: 36px 25px 36px 25px;
     text-align: left;
@@ -351,6 +337,7 @@ time, mark, audio, video {
     color: #666666;
     margin-top: 50px;
     scroll-behavior: smooth;
+    cursor: pointer;
 }
 
 .arrow-button img {
@@ -362,6 +349,7 @@ time, mark, audio, video {
 .top-section h2 {
     font-size: 40px;
     margin-bottom: 32px;
+    margin-top: 32px;
     font-weight: 400;
     color: #666666;
 }
@@ -374,17 +362,21 @@ time, mark, audio, video {
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+    width: 80%;
 }
 .content h2 {
     color: #666666;
-    line-height: 50px;
-    font-size: 40px;
+    line-height: 58px;
+    font-size: 50px;
+    margin-bottom: 20px;
 }
 
 .content p {
     color: #666666;
-    font-size: 30px;
+    font-size: 40px;
     text-transform: capitalize;
+    margin-bottom: 15px;
+    margin-top: 0px;
 }
 
 /*partical section start end*/
